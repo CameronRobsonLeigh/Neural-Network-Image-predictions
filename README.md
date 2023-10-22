@@ -1,5 +1,7 @@
 # Neural-Network-Image-predictions
 
+Neural network predictions for images of items of clothing.
+
 1. Read dataset and create data loaders: 5%
 Here we pull through the fashion mnist dataset that consists of 70,000 greyscale 28x28
 images belonging to 10 different items of clothing.
